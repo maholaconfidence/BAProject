@@ -1,0 +1,2 @@
+# BAProject
+AI Practical solution
